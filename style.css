@@ -33,5 +33,13 @@
   left: 500px;
   top: 430px;}
   
-  #rodape{text-align:center;
+  #minha_experiencia{position: absolute;
+    float: block;
+    left: 600px;
+    top: 800px;
   }
+
+  #descricao{position: relative;
+    float: block;
+    top: 80px;
+    left: 100px;}

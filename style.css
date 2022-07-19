@@ -25,7 +25,10 @@
     margin: 3%;}
 
   #licoes_a_aprender{position: absolute;
-    display: inline-block;
     left: 300px;
     top: 420px;
     margin: 3%;}
+
+  #link{position: absolute;
+  left: 500px;
+  top: 430px;}
